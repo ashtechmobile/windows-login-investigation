@@ -7,6 +7,7 @@
 I reviewed a simulated Windows Security event summary for the `finance01` account. My goal was to identify the successful logon and compare its source IP with the earlier failed attempts. Source A and Source B represent two different IP addresses in the exercise.
 
 [View the simulated Windows logon data](sample-events.csv)
+[View the SQL queries and run instructions](analysis.sql)
 ## Event timeline
 
 | Time | Windows Event ID | Account | Source IP | Outcome |
